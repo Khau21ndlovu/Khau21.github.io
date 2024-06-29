@@ -1,0 +1,135 @@
+#p{
+				border-radius: 0px;
+				text-align: center;}
+				
+.box{
+				border: 3px solid#ff4a2b;
+				border-radius: 10px;
+				height: 390px;
+				border-spacing: 19px ;
+			background-image: url('back.jpg');
+			padding: 7px;
+			background-size: cover;
+			margin: 4px;
+			border-spacing: 10px;} 
+
+
+
+
+#nav a{
+				padding: 5px;
+				border-spacing: 5px;
+				padding-right: 7px;
+				color: #e20900;
+				padding-top: 7px;
+				font-size: 17px;
+				display: inline-grid;}
+
+
+
+.container{
+				border: 3px solid#ff5540;
+				height: 670px;
+				text-align: center;
+				border-spacing: 1px;
+				border-radius: 10px;
+				padding: 8px;
+         background-color: #9e4128;
+         color: white;
+         margin: 45px;
+          font-size: 12px;}
+				
+				
+				
+section{	background-color: #f1bfa1;
+            padding-top: 0;
+             margin-top: 15px;
+             margin-bottom: 20px;
+             border-spacing:30px;}
+             
+             
+
+
+				
+#2{
+				text-align: center;
+				font-size: 20px;
+				padding: 15px;
+				text-shadow:4px 2px 2px #b8441f;}
+				
+
+
+#t{ 
+				background-color: #fff4d5;
+				border-radius: 10px;
+				height: 35px;
+				text-align: center;
+				border: 2px solid #ff4040;
+				border-spacing: 25px;
+				padding: 7px;}
+				
+
+#is{  
+				background-color: #fff4d5;
+				border-radius: 10px;
+				text-align: center;
+				cursor: pointer;
+				border: 2px solid #ff4040;
+				border-spacing: 15px 7px;
+				padding: 10px;}
+				
+
+footer{
+			background-color:#9e4128;
+			border-spacing:30px;}
+				
+
+#b{
+				height: 90px;
+				background-color: #9e4128;
+				font-size: 20px;
+				border-radius: 0px;
+				border: 2px;
+				 padding: 12px;
+				width: 327px;
+				margin-left: 2px;
+				margin-top: 2px;
+				border-spacing: 30px;}
+			
+			
+			
+
+#log{
+         color: #c53141;
+         font-size: 35px;
+        text-shadow: 4px 3px 2px #000000;}
+
+
+
+table td{
+				margin: 7px;
+				padding: 15px;
+				border-collapse: separate;
+				border-spacing: 0 39px;}
+
+
+				
+				
+
+#kh{
+	   	  color: #bd2f3f;
+	     	text-align: center;
+		       font-size: 40px;
+	      	text-shadow: 4px 3px 2px #000000;}
+		
+		
+
+#h{
+           text-align: center;
+          color: #bd2f3f;
+           font-size: 25px;
+           text-shadow: 4px 3px 2px #00000;}
+
+
+.links{
+            color: #a21b22;}

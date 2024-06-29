@@ -1,0 +1,50 @@
+.box{
+				border: 3px solid #000000;
+				border-radius: 10px;
+				height: 335px;
+				border-spacing: 19px ;
+			background-image: url('back.jpg');
+			padding: 22px;
+			background-size: cover;
+			margin: 7px;
+			
+			border-spacing: 10px;}
+			
+			a{
+							color: white;}
+							
+	#kh{color: white;
+	text-shadow: 4px 3px 2px #a5ff80;
+	text-align: center;
+	font-size: 40px;}
+	
+	#h{color: white;
+	text-shadow: 4px 3px 2px #a5ff80;
+	text-align: center;
+	font-size: 40px;}
+			
+		
+					
+			
+.container{
+				border-radius: 10px;
+				border: 4px solid #ffffff;
+				text-align: center;
+				border-spacing: 24px;
+				padding: 24px;
+				gap: 10px;}
+				
+				body {
+				background-color: #000000;
+				color : white;
+				text-shadow: 3px 2px 2px #c5ff95;
+				container-shadow: 2px 2px 1px #ffffff;}
+				
+		
+				
+								
+				
+		
+footer{
+			margin-top: 25px;
+			border-spacing:30px;}
